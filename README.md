@@ -1,10 +1,10 @@
 # tesla_tnp_machine_test
 # Installation
-# 1.Download the code as zip.
-# 2.Extract the zip file.
-# 3.Enter in to the folder using cmd.
-# 4.Install the react-script using command npm install react-scripts.
-# 5.Run the code using command npm start.
+#1.Download the code as zip.
+#2.Extract the zip file.
+#3.Enter in to the folder using cmd.
+#4.Install the react-script using command npm install react-scripts.
+#5.Run the code using command npm start.
 
 Available Scripts
 
