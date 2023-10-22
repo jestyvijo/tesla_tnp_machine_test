@@ -1,0 +1,51 @@
+#content{
+  margin-left: -46px;
+  margin-top: -763px;
+  color: white;
+  text-align: center;
+}
+.box {
+  /* width: 716px; */
+  height: 50px;
+  background-color: white;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  /* padding: 25px; */
+  /* margin: 30px auto; */
+  border: solid #0DCAF0;
+  margin:20px auto;
+  }
+  
+  .box>i {
+  font-size: 20px;
+  color: #777;
+  padding:30px;
+  }
+  
+  .box>input {
+  /* height: 40px; */
+  border: none;
+  outline: none;
+  font-size: 18px;
+  /* padding-left: 10px; */
+  }
+  .pageNum{
+    color:"red";
+    background-color:"yellow"
+  }
+  .paint{
+    height: 40px;
+    width: 40px;
+    border-radius:50%;
+    margin-right: 13px;
+    cursor: 'pointer'
+  }
+  .fix{
+    height: 60px;
+    background-color: antiquewhite;
+    margin-top: -100px;
+    padding-top: 15px;
+    text-align: center;
+    position:relative;
+  }
